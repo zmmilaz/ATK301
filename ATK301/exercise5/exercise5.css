@@ -1,0 +1,40 @@
+h1{
+  color: white;
+}
+
+h2{
+  color:blue;
+}
+
+.spanstyle{
+  color: yellow;
+}
+
+#bluebackground{
+  background-color: lightblue;
+}
+
+#yellowbackground{
+  background-color: yellow;
+}
+
+.spanstyle2{
+  color: red;
+}
+
+#greenbackground{
+  background-color: green;
+  color: yellow;
+}
+
+.spanstyle3{
+  background-color: lightgreen;
+}
+
+#purpletext{
+  color: purple;
+}
+
+.spanstyle4{
+  color: green;
+}
