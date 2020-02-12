@@ -1,0 +1,39 @@
+h1{
+  color: red;
+  background-color: pink;
+}
+
+h2{
+  color: yellow;
+  background-color: darkorange;
+}
+
+h3{
+  color: lime;
+  background-color: darkgreen;
+}
+
+h4{
+  color: purple;
+  background-color: lavender;
+}
+
+#bluetext{
+  color: blue;
+}
+
+.redtext{
+  color: red;
+}
+
+a:link {
+ color: red;
+}
+
+a:visited {
+ color: green;
+}
+
+a:hover {
+ color: yellow;
+}
