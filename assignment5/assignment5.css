@@ -1,0 +1,73 @@
+body{
+  background-color: yellow;
+  font-family: Impact, sans-serif;
+  background-image: url(Lakeith.jpg);
+  background-repeat: no-repeat;
+  width: 600px;
+}
+
+
+h1{
+  text-align: center;
+  line-height: .9;
+  font-size: 120px;
+  margin-bottom: 0;
+  margin-top: 50px;
+}
+
+
+#riley{
+color: purple;
+font-size: 25px;
+border-bottom: 5px solid purple;
+letter-spacing: 5px;
+}
+
+.largetext{
+  font-size: 25px:
+}
+
+#cast{
+padding-top: 400px;
+}
+
+.centered{
+  text-align: center;
+}
+
+.red{
+  color: red;
+
+}
+
+.magenta{
+  color: magenta;
+
+}
+
+.smallpurp{
+  text-align: center;
+  line-height: .9;
+  font-size: 20px;
+  margin-bottom: 0;
+  margin-top: 100px;
+  color: purple
+}
+
+.smallred{
+  font-size: 25px;
+  color: red
+}
+
+.smallmagenta{
+  font-size: 25px;
+  color: magenta;
+}
+
+a:link{
+  color: magenta;
+}
+
+a:hover{
+  color: red
+}
